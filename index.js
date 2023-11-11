@@ -26,9 +26,10 @@ app.post("/submit", (req, res) => {
   //Then:
   const randomAdj = adj[Math.floor(Math.random() * adj.length)];
   const randomNoun = noun[Math.floor(Math.random() * adj.length)];
-  res.render("index.ejs", { 
-    fLetter: randomAdj, lLetter: randomNoun 
-  }); 
+  res.render("index.ejs", {
+    fLetter: randomAdj,
+    lLetter: randomNoun,
+  });
 
   //1. You should randomly pick an adjective from the const "adj" and a noun from const "noun",
   //scroll down to see the two arrays.
