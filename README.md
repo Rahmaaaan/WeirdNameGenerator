@@ -20,11 +20,10 @@ Follow these steps to get the project up and running on your local machine for d
 ### Installation
 
 To run Weird Name Generator locally, follow these steps:
-
-1. Clone the repository.
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/blogpost.git
+   git clone https://github.com/username/WeirdNameGenerator.git
    ```
 
 2. Install the required dependencies using npm:
@@ -33,19 +32,13 @@ To run Weird Name Generator locally, follow these steps:
    npm install
    ```
 
-3. Run the server in one terminal
-
-   ```bash
-   npm server.js
-   ```
-
-4. Run the website in another terminal
+3. Start the website:
 
    ```bash
    npm index.js
    ```
 
-5. Open your web browser and navigate to `http://localhost:3000` to access the website.
+4. Open your web browser and navigate to `http://localhost:3000` to access the website.
 
 ### Usage
 
