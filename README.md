@@ -75,6 +75,10 @@ Contributions to BlogPWeird Name Generator are welcome! To contribute, follow th
 
 5. Create a pull request on the main repository. Please follow the project's coding guidelines and maintain a clean commit history.
 
+## License
+
+This website is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to us at therahman14@gmail.com. We're excited to hear from you and make this project even better!
